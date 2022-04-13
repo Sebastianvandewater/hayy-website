@@ -34,15 +34,15 @@ body a {
 	font-family: 'Oswald', sans-serif;
 	font-weight: 300;
 }
-
-
-.spacer-6 {
+.spacer-1 {
 	 background: transparent;
   color: transparent;
   margin: 0;
   border-style: none;
-  height: 150px;
-}	
+  height: 200px;
+  top: 0;
+}
+
 
 .card-1 {
 	background-color: #FFB72E;
@@ -87,6 +87,14 @@ body a {
   height: 75px;
 }
 
+.spacer-6 {
+	 background: transparent;
+  color: transparent;
+  margin: 0;
+  border-style: none;
+  height: 150px;
+}	
+
 .spacer-7 {
 	 background: transparent;
   color: transparent;
@@ -106,4 +114,13 @@ body a {
 #contact {
 	color:#FFB24D;
 	background-color:#2E3D98;
+}
+
+.spacer-beer {
+	 background: transparent;
+  color: transparent;
+  margin: 0;
+  border-style: none;
+  height: 135px;
+  top: 0;
 }
