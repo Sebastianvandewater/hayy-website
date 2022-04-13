@@ -70,6 +70,10 @@ body a {
   height: 200px;
 }
 
+.beers img:hover {
+	opacity: 0.8;
+}
+
 .card-2 {
 	background-color: #2E3D98;
 	color: #FFB72E;
