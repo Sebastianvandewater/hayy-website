@@ -133,3 +133,8 @@ body a {
 .card-2 a:hover {
 	color: white;
 }
+
+.card-img-overlay {
+	position: absolute;
+	top: 50%;
+}
