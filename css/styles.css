@@ -94,3 +94,16 @@ body a {
   border-style: none;
   height: 150px;
 }
+
+#locations {
+	background-color: #2E3D98;
+	color: #FFB24D;
+}
+
+#contact a {
+	color:#FFB24D;
+}
+#contact {
+	color:#FFB24D;
+	background-color:#2E3D98;
+}
