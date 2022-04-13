@@ -79,6 +79,14 @@ body a {
 	color: #FFB72E;
 }
 
+.spacer-5 {
+	 background: transparent;
+  color: transparent;
+  margin: 0;
+  border-style: none;
+  height: 75px;
+}
+
 .spacer-7 {
 	 background: transparent;
   color: transparent;
