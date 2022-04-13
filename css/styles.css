@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+	color: #2E3D98;
+}
+
+
+body a {
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+	color: #2E3D98;
+	text-decoration: none;
+}
+
+.navbar {
+	background-color: #2E3D98;
+	top: 0;
+	position: fixed;
+	width: 100%;
+	z-index: 10;
+}
+.navbar a {
+	color: #FFB24D;
+	text-decoration: none;
+	margin-right: 30px;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+}
+
+.navbar a:hover {
+	color: white;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 300;
+}
+
+
+	
