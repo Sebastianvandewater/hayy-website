@@ -69,3 +69,20 @@ body a {
   border-style: none;
   height: 200px;
 }
+
+.card-2 {
+	background-color: #2E3D98;
+	color: #FFB72E;
+}
+
+.card-2 a {
+	color: #FFB72E;
+}
+
+.spacer-7 {
+	 background: transparent;
+  color: transparent;
+  margin: 0;
+  border-style: none;
+  height: 150px;
+}
