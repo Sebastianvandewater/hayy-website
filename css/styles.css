@@ -43,3 +43,29 @@ body a {
   border-style: none;
   height: 150px;
 }	
+
+.card-1 {
+	background-color: #FFB72E;
+	box-shadow: 7px 7px;
+}
+
+.btn-sm {
+	background-color: #2E3D98;
+	color: white;
+}
+
+.spacer-2 {
+	 background: transparent;
+  color: transparent;
+  margin: 0;
+  border-style: none;
+  height: 200px;
+}
+
+.spacer-3 {
+	 background: transparent;
+  color: transparent;
+  margin: 0;
+  border-style: none;
+  height: 200px;
+}
