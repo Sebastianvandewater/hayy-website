@@ -36,4 +36,10 @@ body a {
 }
 
 
-	
+.spacer-6 {
+	 background: transparent;
+  color: transparent;
+  margin: 0;
+  border-style: none;
+  height: 150px;
+}	
