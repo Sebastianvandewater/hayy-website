@@ -43,6 +43,11 @@ body a {
   top: 0;
 }
 
+.navbar-toggler-icon {
+	color: #FFB24D;
+	
+}
+
 #hayy-opening-banner {
 	background-color: #C6CCED;
 }
