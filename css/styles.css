@@ -147,3 +147,15 @@ body a {
 	position: absolute;
 	top: 40%;
 }
+
+.card-link {
+	color: white;
+}
+
+#align-right-values {
+	text-align: end;
+}
+
+.instagram-icon {
+	text-align: end;
+}
