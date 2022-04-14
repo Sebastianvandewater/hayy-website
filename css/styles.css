@@ -159,3 +159,31 @@ body a {
 .instagram-icon {
 	text-align: end;
 }
+
+.card-title-opening {
+	font-size: 350%;
+}
+
+.card-text-opening {
+	font-size: 200%;
+}
+
+.vision-values {
+	font-size: 140%
+}
+
+.card-text-instagram {
+	font-size: 135%;
+}
+
+.card-title-drink {
+	font-size: 230%;
+}
+
+.card-text-drink {
+	font-size: 150%;
+}
+
+.list-locations {
+	font-size: 140%;
+}
