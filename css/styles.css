@@ -43,6 +43,10 @@ body a {
   top: 0;
 }
 
+#hayy-opening-banner {
+	background-color: #C6CCED;
+}
+
 
 .card-1 {
 	background-color: #FFB72E;
@@ -59,7 +63,7 @@ body a {
   color: transparent;
   margin: 0;
   border-style: none;
-  height: 200px;
+  height: 130px;
 }
 
 .spacer-3 {
